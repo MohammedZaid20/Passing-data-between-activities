@@ -10,7 +10,9 @@ public class SecondActivity extends AppCompatActivity {
     String TheMessage;
 
 
-
+    // Mohammed.r.zaid20@Gmail.com
+    // +218 94 579 8487
+    // Tripoli, Libya FB: @Mohammed.Zaid20
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

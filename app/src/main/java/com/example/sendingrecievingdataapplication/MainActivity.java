@@ -17,6 +17,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    // Mohammed.r.zaid20@Gmail.com
+    // +218 94 579 8487
+    // Tripoli, Libya FB: @Mohammed.Zaid20
+
     public void SendingButton(View view) {
         MsgEditText = findViewById(R.id.msgEditTextView);
         String MsgOne = MsgEditText.getText().toString();
